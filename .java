@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Lab7Methods {
+public class Methods {
 
    public static void main(String[] args) {
      // variable declarations for part 1
